@@ -1,0 +1,6 @@
+# dependencies
+container/node_modules
+menu_TS/node_modules
+offers_part/node_modules
+offers_ts/node_modules
+/node_modules

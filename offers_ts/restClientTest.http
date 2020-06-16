@@ -1,0 +1,8 @@
+GET http://localhost:3001/asset-manifest.json
+
+###
+GET http://localhost:3001/bundle.js
+
+###
+
+GET  http://localhost:3002/asset-manifest.json
