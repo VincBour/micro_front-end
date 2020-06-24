@@ -1,6 +1,13 @@
-# dependencies
-container/node_modules
-menu_TS/node_modules
-offers_part/node_modules
-offers_ts/node_modules
-/node_modules
+
+container_FE/node_modules
+container_FE/dist
+
+signIn_FE/node_modules
+signIn_FE/dist
+
+about_FE/node_modules
+about_FE/dist
+
+offers_TS_FE/node_modules
+offers_TS_FE/dist
+
